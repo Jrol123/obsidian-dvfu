@@ -5,9 +5,9 @@
 	{trigger: "beg", replacement: "\\begin{$0}\n$1\n\\end{$0}", options: "mA"},
 
     // Dashes
-	// {trigger: "--", replacement: "–", options: "tA"},
-	// {trigger: "–-", replacement: "—", options: "tA"},
-	// {trigger: "—-", replacement: "---", options: "tA"},
+	// {trigger: "--", replacement: "ï¿½", options: "tA"},
+	// {trigger: "ï¿½-", replacement: "ï¿½", options: "tA"},
+	// {trigger: "ï¿½-", replacement: "---", options: "tA"},
 
     // Greek letters
 	{trigger: "@a", replacement: "\\alpha", options: "mA"},
@@ -34,6 +34,8 @@
 	{trigger: "@O", replacement: "\\Omega", options: "mA"},
 	{trigger: "ome", replacement: "\\omega", options: "mA"},
 	{trigger: "Ome", replacement: "\\Omega", options: "mA"},
+	{trigger: "@p", replacement: "\\phi",, options: "mA"},
+	{trigger: "@P", replacement: "\\Phi",, options: "mA"}
 
     // Text environment
     {trigger: "text", replacement: "\\text{$0}$1", options: "mA"},
