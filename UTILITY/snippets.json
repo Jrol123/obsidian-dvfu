@@ -133,6 +133,7 @@
 	{trigger: "=>", replacement: "\\implies", options: "mA"},
 	{trigger: "=<", replacement: "\\impliedby", options: "mA"},
 	
+	{trigger: "let", replacement: "\\sqsupset", options: "mA"},
 	{trigger: "and", replacement: "\\cap", options: "mA"},
 	{trigger: "orr", replacement: "\\cup", options: "mA"},
 	{trigger: "inn", replacement: "\\in", options: "mA"},
