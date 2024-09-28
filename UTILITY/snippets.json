@@ -151,6 +151,7 @@
 	{trigger: "RR", replacement: "\\mathbb{R}", options: "mA"},
 	{trigger: "ZZ", replacement: "\\mathbb{Z}", options: "mA"},
 	{trigger: "NN", replacement: "\\mathbb{N}", options: "mA"},
+	{trigger: "PP", replacement: "\\mathbb{P}", options: "mA"},
 	
 	// Handle spaces and backslashes
 	
@@ -291,18 +292,18 @@
 	// Snippet replacements can also be JavaScript functions.
 	// See the documentation for more information.
 	{trigger: /iden(\d)/, replacement: (match) => {
-		const n = match[1];
-		
-		let arr = [];
-		for (let j = 0; j < n; j++) {
-			arr[j] = [];
-			for (let i = 0; i < n; i++) {
-				arr[j][i] = (i === j) ? 1 : 0;
-			}
-		}
-		
-		let output = arr.map(el => el.join(" & ")).join(" \\\\\n");
-		output = `\\begin{pmatrix}\n${output}\n\\end{pmatrix}`;
-		return output;
-		}, options: "mA", description: "N x N identity matrix"},
+	const n = match[1];
+	
+	let arr = [];
+	for (let j = 0; j < n; j++) {
+	arr[j] = [];
+	for (let i = 0; i < n; i++) {
+	arr[j][i] = (i === j) ? 1 : 0;
+	}
+	}
+	
+	let output = arr.map(el => el.join(" & ")).join(" \\\\\n");
+	output = `\\begin{pmatrix}\n${output}\n\\end{pmatrix}`;
+	return output;
+	}, options: "mA", description: "N x N identity matrix"},
 	]
