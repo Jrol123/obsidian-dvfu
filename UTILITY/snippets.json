@@ -36,6 +36,7 @@
 	{trigger: "Ome", replacement: "\\Omega", options: "mA"},
 	{trigger: "@p", replacement: "\\phi", options: "mA"},
 	{trigger: "@P", replacement: "\\Phi", options: "mA"},
+	{trigger: "@r", replacement: "\\rho", options: "mA"},
 	
 	// Text environment
 	{trigger: "text", replacement: "\\text{$0}$1", options: "mA"},
