@@ -5,7 +5,7 @@
 	{trigger: "beg", replacement: "\\begin{$0}\n$1\n\\end{$0}", options: "mA"},
 
 	// Different modes
-	{trigger: "mathsf", replacement: "\\mathsf{ $0 }", options: "mA"},
+	{trigger: "mathsf", replacement: "\\mathsf{$0}$1", options: "mA"},
 	
 	// Dashes
 	// {trigger: "--", replacement: "�", options: "tA"},
