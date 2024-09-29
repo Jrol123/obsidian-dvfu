@@ -49,6 +49,7 @@
 	{trigger: "backslash", replacement: "\\backslash", options: "mA"},
 	{trigger: "\\\\\\", replacement: "\\backslash", options: "mA"},
 	{trigger: "   ", replacement:" \\quad $0 ", options:"mA"},
+	{trigger: "qd", replacement:" \\quad $0 ", options:"mA"},
 	{trigger: "sr", replacement: "^{2}", options: "mA"},
 	{trigger: "cb", replacement: "^{3}", options: "mA"},
 	{trigger: "rd", replacement: "^{$0}$1", options: "mA"},
