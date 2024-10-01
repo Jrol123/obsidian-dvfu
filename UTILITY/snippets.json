@@ -40,6 +40,7 @@
 	{trigger: "@p", replacement: "\\phi", options: "mA"},
 	{trigger: "@P", replacement: "\\Phi", options: "mA"},
 	{trigger: "@r", replacement: "\\rho", options: "mA"},
+	{trigger: "@x", replacement: "\\xi", options: "mA"},
 	
 	// Text environment
 	{trigger: "text", replacement: "\\text{$0}$1", options: "mA"},
