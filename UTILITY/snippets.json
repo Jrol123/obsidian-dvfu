@@ -47,7 +47,7 @@
 	{trigger: "\"", replacement: "\\text{$0}$1", options: "mA"},
 	
 	// Basic operations
-	{trigger: "||", replacement: "||$0||$1", options:"mA"},
+	{trigger: "||", replacement: "||$0||", options:"mA"},
 	{trigger: "backslash", replacement: "\\backslash", options: "mA"},
 	{trigger: "\\\\\\", replacement: "\\backslash", options: "mA"},
 	{trigger: "   ", replacement:" \\quad $0 ", options:"mA"},
