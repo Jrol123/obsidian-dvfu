@@ -213,6 +213,7 @@
 	
 	
 	// Visual operations
+	{trigger: "OV", replacement: "\\overline{ ${VISUAL} }", options: "mA", "priority"}
 	{trigger: "U", replacement: "\\underbrace{ ${VISUAL} }_{ $0 }", options: "mA"},
 	{trigger: "O", replacement: "\\overbrace{ ${VISUAL} }^{ $0 }", options: "mA"},
 	{trigger: "B", replacement: "\\underset{ $0 }{ ${VISUAL} }$1", options: "mA"},
