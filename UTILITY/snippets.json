@@ -264,7 +264,7 @@
 	{trigger: "array", replacement: "\\begin{array}\n$0\n\\end{array}", options: "mA"},
 
 	// Different matrix
-	{trigger: "linerow", replacement: "\begin{pmatrix}$0_1 & 0 & \ldots & 0 \\ 0 & $0_2 & \ldots & 0 \\ \ldots & \ldots & \ldots & \ldots \\ 0 & 0 & \ldots & e^{t\lambda_{p}}\end{pmatrix}"}
+	{trigger: "linerow", replacement: "\begin{pmatrix}$0_1 & 0 & \ldots & 0 \\ 0 & $0_2 & \ldots & 0 \\ \ldots & \ldots & \ldots & \ldots \\ 0 & 0 & \ldots & $0_{$1}\end{pmatrix}", options: "mA"},
 	
 	
 	// Brackets
