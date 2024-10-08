@@ -266,7 +266,7 @@
 
 	// Different matrixes
 	{trigger: "linerowu", replacement: "\\begin{pmatrix}$0_1 & 0 & \\ldots & 0 \\\\ 0 & $0_2 & \\ldots & 0 \\\\ \\ldots & \\ldots & \\ldots & \\ldots \\\\ 0 & 0 & \\ldots & $0_$1\\end{pmatrix}", options: "mA"},
-	{trigger: "ve\\cot u", replacement: "\\begin{pmatrix}$0_1\\$0_2\\\\ldots\\$0_$1\\end{pmatrix", options: "mA", priority;: 1},
+	{trigger: "\\vec{tr}", replacement: "\\begin{pmatrix}$0_1\\$0_2\\\\ldots\\$0_$1\\end{pmatrix", options: "mA", priority: 1},
 	
 	// Brackets
 	{trigger: "avg", replacement: "\\langle $0 \\rangle $1", options: "mA"},
