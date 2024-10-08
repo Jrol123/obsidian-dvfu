@@ -264,7 +264,7 @@
 	{trigger: "align", replacement: "\\begin{align}\n$0\n\\end{align}", options: "mA"},
 	{trigger: "array", replacement: "\\begin{array}\n$0\n\\end{array}", options: "mA"},
 
-	// Different matrix
+	// Different matrixes
 	{trigger: "linerowu", replacement: "\\begin{pmatrix}$0_1 & 0 & \\ldots & 0 \\\\ 0 & $0_2 & \\ldots & 0 \\\\ \\ldots & \\ldots & \\ldots & \\ldots \\\\ 0 & 0 & \\ldots & $0_$1\\end{pmatrix}", options: "mA"},
 	
 	
