@@ -3,7 +3,7 @@
 	{trigger: "mk", replacement: "$$0$", options: "tA"},
 	{trigger: "dm", replacement: "$$\n$0\n$$", options: "tAw"},
 	{trigger: "beg", replacement: "\\begin{$0}\n$1\n\\end{$0}", options: "mA"},
-
+	
 	// Different modes
 	{trigger: "mathsf", replacement: "$\\mathsf{$0}$1$", options: "tA"},
 	
@@ -121,6 +121,7 @@
 	{trigger: "+-", replacement: "\\pm", options: "mA"},
 	{trigger: "-+", replacement: "\\mp", options: "mA"},
 	{trigger: "...", replacement: "\\ldots", options: "mA"},
+	{trigger: "...", replacement: "\\cdots", options: "mA"},
 	{trigger: "nabl", replacement: "\\nabla", options: "mA"},
 	{trigger: "del", replacement: "\\nabla", options: "mA"},
 	{trigger: "xx", replacement: "\\times", options: "mA"},
@@ -263,7 +264,7 @@
 	{trigger: "cases", replacement: "\\begin{cases}\n$0\n\\end{cases}", options: "mA"},
 	{trigger: "align", replacement: "\\begin{align}\n$0\n\\end{align}", options: "mA"},
 	{trigger: "array", replacement: "\\begin{array}\n$0\n\\end{array}", options: "mA"},
-
+	
 	// Different matrixes
 	{trigger: "linerowu", replacement: "\\begin{pmatrix}$0_1 & 0 & \\ldots & 0 \\\\ 0 & $0_2 & \\ldots & 0 \\\\ \\ldots & \\ldots & \\ldots & \\ldots \\\\ 0 & 0 & \\ldots & $0_$1\\end{pmatrix}", options: "mA"},
 	{trigger: "vtr", replacement: "\\begin{pmatrix}$0_1\\\\ $0_2\\\\ \\ldots\\\\ $0_$1\\end{pmatrix}", options: "mA", priority: 1},
@@ -312,18 +313,18 @@
 	// Snippet replacements can also be JavaScript functions.
 	// See the documentation for more information.
 	{trigger: /iden(\d)/, replacement: (match) => {
-	const n = match[1];
-	
-	let arr = [];
-	for (let j = 0; j < n; j++) {
-	arr[j] = [];
-	for (let i = 0; i < n; i++) {
-	arr[j][i] = (i === j) ? 1 : 0;
-	}
-	}
-	
-	let output = arr.map(el => el.join(" & ")).join(" \\\\\n");
-	output = `\\begin{pmatrix}\n${output}\n\\end{pmatrix}`;
-	return output;
-	}, options: "mA", description: "N x N identity matrix"},
+		const n = match[1];
+		
+		let arr = [];
+		for (let j = 0; j < n; j++) {
+			arr[j] = [];
+			for (let i = 0; i < n; i++) {
+				arr[j][i] = (i === j) ? 1 : 0;
+			}
+		}
+		
+		let output = arr.map(el => el.join(" & ")).join(" \\\\\n");
+		output = `\\begin{pmatrix}\n${output}\n\\end{pmatrix}`;
+		return output;
+		}, options: "mA", description: "N x N identity matrix"},
 	]
