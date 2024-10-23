@@ -168,6 +168,7 @@
 	{trigger: "NN", replacement: "\\mathbb{N}", options: "mA"},
 	{trigger: "PP", replacement: "\\mathbb{P}", options: "mA"},
 	
+	
 	// Handle spaces and backslashes
 	
 	// Snippet variables can be used as shortcuts when writing snippets.
