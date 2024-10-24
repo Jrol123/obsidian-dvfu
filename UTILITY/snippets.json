@@ -140,6 +140,8 @@
 	{trigger: "simm", replacement: "\\sim", options: "mA"},
 	{trigger: "sim=", replacement: "\\simeq", options: "mA"},
 	{trigger: "prop", replacement: "\\propto", options: "mA"},
+
+	{trigger: "d==", replacement: "\\overset{def}{=}", options: "mA"},
 	
 	
 	{trigger: "<->", replacement: "\\leftrightarrow ", options: "mA"},
