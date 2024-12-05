@@ -92,6 +92,7 @@
 	{trigger: "dot", replacement: "\\dot{$0}$1", options: "mA", priority: -1},
 	{trigger: "ddot", replacement: "\\ddot{$0}$1", options: "mA"},
 	{trigger: "cdot", replacement: "\\cdot", options: "mA"},
+	{trigger: "\\cdotsot", replacement: "\\cdot", options: "mA", priority: -1},
 	{trigger: "tilde", replacement: "\\tilde{$0}$1", options: "mA"},
 	{trigger: "und", replacement: "\\underline{$0}$1", options: "mA"},
 	{trigger: "vec", replacement: "\\vec{$0}$1", options: "mA"},
