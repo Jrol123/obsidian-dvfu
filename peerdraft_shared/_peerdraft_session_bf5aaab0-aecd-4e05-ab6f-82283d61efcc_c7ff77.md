@@ -1,0 +1,35 @@
+$$
+x' = f(t, x), \quad t > 0 
+$$
+$$
+x(t) = \begin{pmatrix}
+x_{1}(t) \\
+\vdots \\
+x_{n}
+\end{pmatrix}, \quad f(t, x) = \begin{pmatrix}
+f_{1}(t, x) \\
+\vdots \\
+f_{n}(t, x)
+\end{pmatrix} 
+$$
+
+**Стационарное решение**
+	$x^{(s)}=const: f(t, x^{(s)})=0$
+
+**Замечание**
+	$y = x - \phi$
+	$y' = f(t, y + \phi) - f(t, \phi)$
+Устойчивость решения $\mathsf{\phi}$ системы $\mathsf{\left( 1 \right) \iff }$ устойчивое решение $\mathsf{y = 0}$ системы $\mathsf{(2)}$
+
+
+**Пример**
+$x' = x - x^{2}$
+$x(t) = u(t)e^{t}$
+$x' = u'e^{t} + ue^{t} = ue^{t} - u^{2}e^{2t}$
+
+$u' = -u^{2}e^{t}$
+$\int \frac{du}{u^{2}} = -\int e^{t}dt$
+$-\frac{1}{u} = -e^{t} + C \quad u = \frac{1}{e^{t} - C}$
+$\frac{1}{1 - C} = x_{0}, \quad C = \frac{1}{x_{0}}, \quad C = 1 - \frac{1}{x_{0}}$
+
+$x(t) = \frac{e^{t}}{e^{t} - 1 + \frac{1}{x_{0}}} = \frac{x_{0}e^{t}}{1 + x_{0}\left( e^{t} - 1 \right)} = \frac{x_{0}e^{-t}}{e^{-2t} + x_{0}\left( e^{-t} - e^{-2t} \right)} = \frac{x_{0}}{e^{-t} + x_{0}\left( 1 - e^{-t} \right)}$ 
