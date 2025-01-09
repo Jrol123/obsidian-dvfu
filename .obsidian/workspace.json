@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "3b791d15829f0ff8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cf616ec0f15b2bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec6e592e6290b87b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Вычислительная математика/Коллоки/Коллоквиум 2.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Коллоквиум 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d214f730ac5a4283",
+    "type": "split",
+    "children": [
+      {
+        "id": "a03b3c5c354737f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81ba2bbfbc6f7235",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "0aad68faaeb0c056",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "adafcaae3de051e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272.5
+  },
+  "right": {
+    "id": "d016cd5c0f9564bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "85cc8f09c72297d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04fe6641c116e3dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Вычислительная математика/Лекции/Лекция 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Лекция 2"
+            }
+          },
+          {
+            "id": "783189168768d66b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Вычислительная математика/Лекции/Лекция 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Лекция 2"
+            }
+          },
+          {
+            "id": "e0e54db110df6a53",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "a0f2fd7fc559946f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Вычислительная математика/Лекции/Лекция 2.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Лекция 2"
+            }
+          },
+          {
+            "id": "1b7af2284511ecb4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ec6e592e6290b87b",
+  "lastOpenFiles": [
+    "Вычислительная математика/Инфа к 3-му коллоку (TO DELETE)/Тема 15 Вар. описание собс. зн..docx",
+    "Вычислительная математика/Коллоки/Коллоквиум 2.md",
+    "Вычислительная математика/Коллоки/Коллоквиум 0.md",
+    "Вычислительная математика/Инфа к 3-му коллоку (TO DELETE)/Тема_18_Реш_част_пробл_собст_значений.md",
+    "Вычислительная математика/Коллоки/Коллоквиум 1.md",
+    "Вычислительная математика/112.md",
+    "Вычислительная математика/Курсач/Задание к курсачу.md",
+    "Вычислительная математика/Курсач/Сам курсач.md",
+    "Вычислительная математика/Лекции/Лекция 5.md",
+    "Дифференциальная геометрия и топология/Домашняя работа/ДЗ 10.md",
+    "Без названия.md",
+    "Pasted image 20241128195012.png",
+    "Pasted image 20241128191559.png",
+    "IMAGES/Pasted image 20241127132108.png",
+    "IMAGES",
+    "Методы оптимизации/Практики/Практика 2. Условная оптимизация.md",
+    "Методы оптимизации/Практики/Практика 3. Условный экстремум при ограничениях типа равенств.md",
+    "Дифференциальная геометрия и топология/Домашняя работа/ДЗ 8.md",
+    "Дифференциальная геометрия и топология/Практики/Практика 7.md",
+    "Дифференциальная геометрия и топология/Домашняя работа/ДЗ 7.md",
+    "Дифференциальная геометрия и топология/Основная информация.md",
+    "Дифференциальная геометрия и топология/Практики/Практика 6.md",
+    "Дифференциальная геометрия и топология/Лекции/Топологические пространства и непрерывные отображения/Лекция 1.2 Непрерывные отображения топологического пространства.md",
+    "Диффуры/Домашние работы/ДЗ 4.md",
+    "Методы оптимизации/Домашние работы/ДЗ 4.md",
+    "Методы оптимизации/Домашние работы/ДЗ 4.jpg",
+    "Диффуры/Лекции/Лекция 8. Анализ точек покоя (при n=2).md",
+    "Без названия.canvas",
+    "Диффуры/Домашние работы/ДЗ 3.md",
+    "Диффуры/Лекции/Лекция 7. Экспоненциальная устойчивость динамических систем.md",
+    "Диффуры/Практики/Практика 5.md",
+    "Диффуры/Практики/Практика 6.md",
+    "Вычислительная математика/Курсач",
+    "Дифференциальная геометрия и топология/ДЗ 7.pdf",
+    "Pasted image 20241107153421.png",
+    "pdf.pdf",
+    "Дифференциальная геометрия и топология/ДЗ 6.pdf",
+    "Дифференциальная геометрия и топология/ДЗ 5.pdf",
+    "Дифференциальная геометрия и топология/ДЗ 1.pdf",
+    "Дифференциальная геометрия и топология/ДЗ 4.pdf",
+    "Экономика/Практика",
+    "Диффуры/Домашние работы",
+    "Pasted image 20241009222637.png",
+    "Pasted image 20241009222633.png",
+    "Pasted image 20241007120338.png",
+    "Pasted image 20241007114126.png",
+    "Pasted image 20241007110335.png"
+  ]
+}
