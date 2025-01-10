@@ -163,7 +163,7 @@
               "type": "peerdraft-share-view",
               "state": {},
               "icon": "lucide-file",
-              "title": "Your Peerdraft Shares"
+              "title": "Плагин больше не активен"
             }
           }
         ],
@@ -182,13 +182,7 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-git:Open Git source control": false,
-      "peerdraft:Show my Peerdraft Shares": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-statusbar-pomo:Start pomodoro": false,
-      "audio-recorder:Начать/остановить запись": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "93be8506a8022c2d",
