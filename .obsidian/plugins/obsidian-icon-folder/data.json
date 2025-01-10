@@ -1,0 +1,49 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiBook",
+      "🇳🇴",
+      "LiTrash",
+      "LiPaintbrush",
+      "LiPaintbrush2"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Диффуры": "LiHeart",
+  "Большие данные": "LiComputer",
+  "Бухгалтерия": "LiDock",
+  "Вычислительная математика": "LiComponent",
+  "Дифференциальная геометрия и топология": "LiShapes",
+  "Методы оптимизации": "LiGitGraph",
+  "Экономика": "LiBuilding2",
+  "IMAGES": "LiImages",
+  "UTILITY": "LiTrash2",
+  "Excalidraw": "LiPaintbrush",
+  "НАУЧКА": "LiTrash",
+  "Notion": "LiBook"
+}
