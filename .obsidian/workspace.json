@@ -15,6 +15,7 @@
               "state": {
                 "file": "Вычислительная математика/Коллоки/Коллоквиум 0.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
@@ -152,7 +153,7 @@
               "type": "peerdraft-share-view",
               "state": {},
               "icon": "lucide-file",
-              "title": "Your Peerdraft Shares"
+              "title": "Плагин больше не активен"
             }
           },
           {
@@ -181,9 +182,7 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-git:Open Git source control": false,
-      "peerdraft:Show my Peerdraft Shares": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "8dd851e05891a1a5",
