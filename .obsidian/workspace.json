@@ -1,40 +1,24 @@
 {
   "main": {
-    "id": "87bdac820b3d43b0",
+    "id": "bf2bc4cda74edf58",
     "type": "split",
     "children": [
       {
-        "id": "0a44fe596f868cdd",
+        "id": "b4f789a4e90e13e0",
         "type": "tabs",
         "children": [
           {
-            "id": "5133abd1e11d08e7",
+            "id": "5bfd8380f6ecafca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Дифференциальная геометрия и топология/Лекции/Топологические пространства и непрерывные отображения/Лекция 1.1 Топологические пространства.md",
+                "file": "Вычислительная математика/Курсач/Задание к курсачу.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Лекция 1.1 Топологические пространства"
-            }
-          },
-          {
-            "id": "e149cbe5034bb8ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Дифференциальная геометрия и топология/Практики/Практика 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Практика 1"
+              "title": "Задание к курсачу"
             }
           }
         ]
@@ -43,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6c52568a10810790",
+    "id": "df79baec2a1f9f93",
     "type": "split",
     "children": [
       {
-        "id": "35a995f6c80c63d5",
+        "id": "6dc44574285d32af",
         "type": "tabs",
         "children": [
           {
-            "id": "dcc4264fce7859f4",
+            "id": "5208a8224c01146a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +47,7 @@
             }
           },
           {
-            "id": "03c98d98dee5d70b",
+            "id": "ca008fe487d3961b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +64,7 @@
             }
           },
           {
-            "id": "29598cb9e1509395",
+            "id": "dd9d69f0867264f1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,23 +77,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "097f0f81309c0bcf",
+    "id": "7759f2930a58bbf1",
     "type": "split",
     "children": [
       {
-        "id": "795f138aa5a8b956",
+        "id": "a070d0e478f3f683",
         "type": "tabs",
         "children": [
           {
-            "id": "44080286566c395b",
+            "id": "cc6e21b800abea26",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вычислительная математика/Коллоки/Коллоквиум 0.md",
+                "file": "Notion/Диффуры/Группировка теории.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Коллоквиум 0"
+              "title": "Обратные ссылки для Группировка теории"
             }
           },
           {
-            "id": "7f153b036ef35459",
+            "id": "a7621427b575abef",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Вычислительная математика/Коллоки/Коллоквиум 0.md",
+                "file": "Вычислительная математика/Коллоки/Коллоквиум 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Коллоквиум 0"
+              "title": "Исходящие ссылки из Коллоквиум 2"
             }
           },
           {
-            "id": "8b423e10ffeb9255",
+            "id": "badc100913768c78",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -150,29 +135,29 @@
             }
           },
           {
-            "id": "ece9fafb37e77622",
+            "id": "4d6ae4e161b44176",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Диффуры/Лекции/Лекция 11. Квазилинейные уравнения.md"
+                "file": "Вычислительная математика/Коллоки/Коллоквиум 2.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Лекция 11. Квазилинейные уравнения"
+              "title": "Структура Коллоквиум 2"
             }
           },
           {
-            "id": "f8f8b32d61bf6671",
+            "id": "aa20d2ef8c26e590",
             "type": "leaf",
             "state": {
               "type": "peerdraft-share-view",
               "state": {},
               "icon": "lucide-file",
-              "title": "Плагин больше не активен"
+              "title": "Your Peerdraft Shares"
             }
           },
           {
-            "id": "ffd741159a6a9a3e",
+            "id": "34507a2cff2d1a61",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -180,9 +165,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "cdb209f5b9006584",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -191,27 +186,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
       "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
       "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "peerdraft:Show my Peerdraft Shares": false,
+      "templater-obsidian:Templater": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "5133abd1e11d08e7",
+  "active": "5bfd8380f6ecafca",
   "lastOpenFiles": [
-    "Дифференциальная геометрия и топология/Практики/Практика 1.md",
-    "Дифференциальная геометрия и топология/Лекции/Топологические пространства и непрерывные отображения/Лекция 1.1 Топологические пространства.md",
-    "Дифференциальная геометрия и топология/Практики/Практика 0.md",
-    "Дифференциальная геометрия и топология/Лекции/Топологические пространства и непрерывные отображения/Лекция 1.2 Непрерывные отображения топологического пространства.md",
-    "Что нужно от сайта.md",
-    "Что надо исправить.md",
-    "Вычислительная математика/112.md",
-    "Вычислительная математика/pdf.pdf",
-    "Вычислительная математика/mokan.pdf",
-    "Вычислительная математика/Коллоки/Коллоквиум 0.md",
+    "Вычислительная математика/Коллоки/Коллоквиум 2.md",
     "Методы оптимизации/Домашние работы/Матричная игра.docx",
     "Методы оптимизации/Домашние работы/ДЗ 5.md",
     "Методы оптимизации/Домашние работы/ДЗ 5.jpg",
@@ -222,32 +213,40 @@
     "peerdraft_shared/Лекция 10.md",
     "peerdraft_shared/_peerdraft_session_bf5aaab0-aecd-4e05-ab6f-82283d61efcc_c7ff77.md",
     "peerdraft_shared",
-    "Вычислительная математика/Коллоки/Коллоквиум 2.md",
+    "Вычислительная математика/Инфа к 3-му коллоку (TO DELETE)/Тема 16 Метод вращения.docx",
+    "Вычислительная математика/Инфа к 3-му коллоку (TO DELETE)/выч.методы лин. алгебры.pdf",
+    "Вычислительная математика/compute-math-lectures-fefu-5th-semester-kolobov.pdf",
+    "Вычислительная математика/Инфа к 3-му коллоку (TO DELETE)/Тема 15 Вар. описание собс. зн..docx",
+    "Вычислительная математика/Лекции/Лекция 5.md",
     "Вычислительная математика/Инфа к 3-му коллоку (TO DELETE)/Тема_18_Реш_част_пробл_собст_значений.md",
+    "conflict-files-obsidian-git.md",
+    "Вычислительная математика/Коллоки/Коллоквиум 0.md",
+    "Вычислительная математика/Не подтверждено 653727.~",
     "Методы оптимизации/Практики/Практика 5. Матричная игра.md",
     "Диффуры/Практики/Практика 9.md",
-    "Вычислительная математика/Коллоквиум 2.pdf",
-    "Вычислительная математика/Инфа к 3-му коллоку (TO DELETE)/выч.методы лин. алгебры.pdf",
+    "Вычислительная математика/Лекции/Лекция 4.md",
     "Вычислительная математика/Инфа к 3-му коллоку (TO DELETE)/Тема_18_Реш_част_пробл_собст_значений.docx",
-    "Вычислительная математика/Инфа к 3-му коллоку (TO DELETE)/Тема_17_QR–алгоритм_реш_пробл_собств_зн_.docx",
+    "Дифференциальная геометрия и топология/Домашняя работа/ДЗ 11.md",
     "Вычислительная математика/Коллоки/Коллоквиум 1.md",
     "Диффуры/Лекции/Лекция 11. Квазилинейные уравнения.md",
-    "Дифференциальная геометрия и топология/Домашняя работа/ДЗ 11.md",
     "IMAGES/Pasted image 20241212154407.png",
-    "Диффуры/Лекции/Лекция 10. Линейные уравнения 1 порядка с частными производными.md",
     "Диффуры/Практики/Практика 8.md",
     "IMAGES/Pasted image 20241209122357.png",
     "IMAGES/Pasted image 20241208191828.png",
+    "1superlim.png",
     "Excalidraw/Drawing 2024-12-08 12.44.05.excalidraw.md",
-    "conflict-files-obsidian-git.md",
-    "Untitled 38.png",
-    "Untitled 33.png",
-    "Untitled 43.png",
-    "dcff4e9c5ff85ff6a04c23e159b9ee5b.png",
-    "Untitled 10.png",
-    "Untitled 10 3.png",
-    "Без названия.canvas",
-    "Без названия.md",
-    "Notion/Матанhub/Экзамен-спидран/Экзамен-спидран.md"
+    "Notion/Диффуры/Группировка теории.md",
+    "Notion/Матанhub/Экзамен-спидран/Экзамен-спидран.md",
+    "Notion/Матанhub/Приложения определённого интеграла/Приложения определённого интеграла.md",
+    "Notion/Матанhub/Практика n + n. Решение рядов/Практика n + n. Решение рядов.md",
+    "Notion/Матанhub/Практика 7. Интегрирование рациональных функций/Практика 7. Интегрирование рациональных функций.md",
+    "Notion/Матанhub/Практика 6. Тема/Практика 6. Тема.md",
+    "Notion/Матанhub/Практика 5/Практика 5.md",
+    "starryai-0-1024865737-1-0-photo_0.png",
+    "slide_8.jpg",
+    "slide_7.jpg",
+    "oNl9rqXgXmE.jpg",
+    "maxresdefault.jpg",
+    "Без названия.canvas"
   ]
 }
