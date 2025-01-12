@@ -1,4 +1,9 @@
 [
   "obsidian-git",
-  "docxer"
+  "docxer",
+  "table-editor-obsidian",
+  "obsidian-excalidraw-plugin",
+  "obsidian-icon-folder",
+  "obsidian-image-toolkit",
+  "obsidian-importer"
 ]
