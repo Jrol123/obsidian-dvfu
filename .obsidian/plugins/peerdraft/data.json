@@ -6,7 +6,7 @@
   "sync": "wss://www.peerdraft.app/sync",
   "signaling": "wss://www.peerdraft.app/signal",
   "actives": "wss://www.peerdraft.app/actives",
-  "name": "",
+  "name": "Serepok",
   "root": "",
   "plan": {
     "type": "hobby",

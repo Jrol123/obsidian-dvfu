@@ -182,10 +182,14 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "obsidian-importer:Open Importer": false,
+      "peerdraft:Show my Peerdraft Shares": false
     }
   },
-  "active": "5133abd1e11d08e7",
+  "active": "dcc4264fce7859f4",
   "lastOpenFiles": [
     "Дифференциальная геометрия и топология/Практики/Практика 1.md",
     "Дифференциальная геометрия и топология/Лекции/Топологические пространства и непрерывные отображения/Лекция 1.1 Топологические пространства.md",
