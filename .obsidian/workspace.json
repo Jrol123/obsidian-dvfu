@@ -15,6 +15,7 @@
               "state": {
                 "file": "Вычислительная математика/Курсач/Задание к курсачу.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
@@ -183,7 +184,7 @@
               "type": "peerdraft-share-view",
               "state": {},
               "icon": "lucide-file",
-              "title": "Your Peerdraft Shares"
+              "title": "Плагин больше не активен"
             }
           },
           {
@@ -202,8 +203,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
             }
           }
         ],
@@ -216,18 +217,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian42-brat:BRAT": false,
+      "graph:Граф": false,
+      "daily-notes:Сегодняшняя заметка": false,
       "switcher:Меню быстрого перехода": false,
       "canvas:Создать новый холст": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-git:Open Git source control": false,
-      "peerdraft:Show my Peerdraft Shares": false,
-      "templater-obsidian:Templater": false,
-      "audio-recorder:Начать/остановить запись": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-statusbar-pomo:Start pomodoro": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "5bfd8380f6ecafca",
