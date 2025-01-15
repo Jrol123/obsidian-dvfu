@@ -204,8 +204,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
             }
           },
           {
@@ -234,10 +234,13 @@
       "canvas:Создать новый холст": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5208a8224c01146a",
+  "active": "5bfd8380f6ecafca",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Вычислительная математика/Курсач/Задание к курсачу.md",
