@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вычислительная математика/Курсач/Задание к курсачу.md",
+                "file": "Диффуры/Практики/Практика 10.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Задание к курсачу"
+              "title": "Практика 10"
             }
           },
           {
@@ -243,8 +243,9 @@
   },
   "active": "5bfd8380f6ecafca",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Вычислительная математика/Курсач/Задание к курсачу.md",
+    "Диффуры/Практики/Практика 10.md",
+    "conflict-files-obsidian-git.md",
     "Вычислительная математика/compute-math-lectures-fefu-5th-semester-kolobov.pdf",
     "Вычислительная математика/Лекции/Лекция 0.md",
     "Вычислительная математика/Коллоки/Коллоквиум 0.md",
