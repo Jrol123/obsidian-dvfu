@@ -45,4 +45,13 @@
 1. S - чувствительные к вирусам
 2. I - заражённые
 3. R - восстановленные
-4. 
+
+$$
+\begin{cases}
+\dfrac{dS}{dt} = -\beta\dfrac{SI}{N} \\
+\dfrac{dI}{dt} = \beta\dfrac{SI}{N} - \gamma I \\
+\dfrac{dR}{dt} = \gamma I
+\end{cases}
+$$
+
+
