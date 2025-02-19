@@ -83,7 +83,10 @@ $$
 \end{cases}
 $$
 $$
-\dfrac{dv}{dt} = -\mu_{v}
+\begin{cases}
+\dfrac{dv}{dt} = -\mu_{v}v + \alpha_{v}I - \alpha_{4}vW \\
+
+\end{cases}
 $$
 
 
