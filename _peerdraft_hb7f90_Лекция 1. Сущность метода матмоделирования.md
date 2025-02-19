@@ -76,9 +76,14 @@ $\alpha$ - коэффициент потери иммунитета
 ## WIRiv
 $W$ - дикие
 $$
-\dfrac{dW}{dt} = \lambda_{1}\nu W - \alpha_{2}iW
-\dfrac{dI}{dt} = \alpha_{1}\nu W - \mu_{1}I
-\dfrac{dR}{d}
+\begin{cases}
+\dfrac{dW}{dt} = \lambda_{1}\nu W - \alpha_{2}iW \\
+\dfrac{dI}{dt} = \alpha_{1} W - \mu_{1}I \\
+\dfrac{dR}{dt} = \alpha_{2}iW
+\end{cases}
+$$
+$$
+\dfrac{}
 $$
 
 
