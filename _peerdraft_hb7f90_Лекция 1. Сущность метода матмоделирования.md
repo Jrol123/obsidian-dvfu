@@ -78,7 +78,7 @@ $W$ - дикие
 $$
 \begin{cases}
 \dfrac{dW}{dt} = \lambda_{1}\nu W - \alpha_{2}iW \\
-\dfrac{dI}{dt} = \alpha_{1}\nu W - \mu_{1}I \\
+\dfrac{dI}{dt} = \alpha_{1}\nu W - \mu_{I}I \\
 \dfrac{dR}{dt} = \alpha_{2}iW
 \end{cases}
 $$
