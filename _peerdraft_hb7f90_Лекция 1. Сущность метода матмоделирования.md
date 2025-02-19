@@ -57,8 +57,12 @@ $\beta$ - коэффициент заражения
 $\gamma$ - коэффициент выздоровления
 
 $$
-\dfrac{d}{dt}\left( S + I + R \right) = 0
+\begin{cases}
+\dfrac{d}{dt}\left( S + I + R \right) = 0 \\
+S + I + R = Const + N
+\end{cases}
 $$
+$I$ - первый инте
 
 
 
