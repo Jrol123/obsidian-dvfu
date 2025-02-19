@@ -72,7 +72,7 @@ $$
 \dfrac{dR}{dt} = \gamma I - \alpha R
 \end{cases}
 $$
-
+$\alpha$ - коэффициент потери иммунитета
 
 
 
