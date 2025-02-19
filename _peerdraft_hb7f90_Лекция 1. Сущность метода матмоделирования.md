@@ -68,7 +68,8 @@ $N$ - первый интеграл
 $$
 \begin{cases}
 \dfrac{dS}{dt} = -\beta S\dfrac{I}{N} + \alpha R \\
-\dfrac{dI}{dt} = \beta S
+\dfrac{dI}{dt} = \beta S \dfrac{I}{N} - \gamma I \\
+\dfrac{dR}{dt} = \gamma I - \alpha R
 \end{cases}
 $$
 
