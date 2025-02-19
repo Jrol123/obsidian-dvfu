@@ -85,7 +85,7 @@ $$
 $$
 \begin{cases}
 \dfrac{dv}{dt} = -\mu_{v}v + \alpha_{v}I - \alpha_{4}vW \\
-
+\dfrac{di}{dt} = \mu_{i}i + \alpha_{i}I - \alpha_{3}iW
 \end{cases}
 $$
 
