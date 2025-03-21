@@ -1,68 +1,54 @@
 {
   "main": {
-    "id": "3b791d15829f0ff8",
+    "id": "4068cb96539f6d32",
     "type": "split",
     "children": [
       {
-        "id": "fb13dec38f78f44b",
+        "id": "151f1163e7d512be",
         "type": "tabs",
         "children": [
           {
-            "id": "ddf860ae9ff077c6",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
-            }
-          },
-          {
-            "id": "669db6f665118219",
+            "id": "1e9a5349e98dcd46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Численные методы диффур/Оглавление.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Оглавление"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d214f730ac5a4283",
+    "id": "adf97e265bc9044b",
     "type": "split",
     "children": [
       {
-        "id": "a03b3c5c354737f5",
+        "id": "c5b5c8a1a94e396e",
         "type": "tabs",
         "children": [
           {
-            "id": "81ba2bbfbc6f7235",
+            "id": "1b45eabfb667d462",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
             }
           },
           {
-            "id": "0aad68faaeb0c056",
+            "id": "c3a546001d3e2015",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +65,7 @@
             }
           },
           {
-            "id": "adafcaae3de051e6",
+            "id": "31aff23e18acdd7e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -92,23 +78,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 300
   },
   "right": {
-    "id": "d016cd5c0f9564bb",
+    "id": "9b9e6c6f665b9ed5",
     "type": "split",
     "children": [
       {
-        "id": "85cc8f09c72297d2",
+        "id": "864831154d4a100b",
         "type": "tabs",
         "children": [
           {
-            "id": "04fe6641c116e3dc",
+            "id": "5dda085a4508126b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вычислительная математика/Лекции/Лекция 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,50 +103,47 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Лекция 2"
+              "title": "Обратные ссылки"
             }
           },
           {
-            "id": "783189168768d66b",
+            "id": "fd91b6a9766a6976",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Вычислительная математика/Лекции/Лекция 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Лекция 2"
+              "title": "Исходящие ссылки"
             }
           },
           {
-            "id": "e0e54db110df6a53",
+            "id": "37a1527e8c746aee",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Теги"
             }
           },
           {
-            "id": "a0f2fd7fc559946f",
+            "id": "72d8cc9fe29a3ca5",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Структура conflict-files-obsidian-git"
+              "title": "Структура"
             }
           },
           {
-            "id": "afe102c2443f550e",
+            "id": "d0efa421803e7411",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -169,33 +151,37 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "bc5f73719e3d099f",
+            "type": "leaf",
+            "state": {
+              "type": "peerdraft-share-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Your Peerdraft Shares"
+            }
+          },
+          {
+            "id": "925854b13b2068cc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "9b01b8ac9f0829bb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5247b0ea838e3af5",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Исходящие ссылки из conflict-files-obsidian-git"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,57 +191,57 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "peerdraft:Show my Peerdraft Shares": false
     }
   },
-  "active": "669db6f665118219",
+  "active": "1e9a5349e98dcd46",
   "lastOpenFiles": [
+    "Численные методы диффур/Оглавление.md",
+    "Численные методы диффур/Коллок 1.md",
+    "Численные методы диффур/Лекции/Лекция 5.md",
+    "Вычислительная математика/Коллоки/Коллоквиум 1.md",
+    "Функан/Практики/Практика 4..md",
+    "Функан/ДЗ/ДЗ 4.md",
+    "peerdraft_shared/Лекция 6. Мат. модель деградации.md",
+    "Функан/Практики/Практика 3. Abibas.md",
+    "Матфизика/Лекции/Лекция 5. ММ движения жидкостей и газов.md",
+    "Функан/ДЗ/ДЗ 3~.md",
+    "Функан/ДЗ/ДЗ 2~.md",
+    "Матфизика/Лекции/Лекция 6. Мат. модель деградации.md",
     "Численные методы диффур/Лекции/Лекция 4..md",
     "Численные методы диффур/Лекции/Лекция 3. Разностные схемы для уравнений в частных производных.md",
-    "Численные методы диффур/Лекции/Лекция 2. Сеточные функции и разностные операторы.md",
     "Численные методы диффур/Лекции/Лекция 1. Задача Коши для ДУ 1 порядка.md",
-    "Численные методы диффур/Оглавление.md",
-    "Численные методы диффур/Лекции",
-    "Численные методы диффур/Коллок 1.md",
-    "Численные методы диффур",
-    "Функан/Практики/Практика 4..md",
-    "Функан/Практики/Практика 3. Abibas.md",
-    "Функан/Практики/Практика 1. Метрические пространства.md",
-    "Функан/Практики/Практика 2. Balls.md",
+    "Численные методы диффур/Лекции/Лекция 2. Сеточные функции и разностные операторы.md",
+    "НАУЧКА/1.md",
+    "Матфизика/Лекции/Лекция 0. Сущность матмоделирования.md",
+    "peerdraft_shared/Лекция 2..md",
     "Функан/Лекции/Лекция 2..md",
     "Функан/Лекции/Лекция 1. Метрические пространства.md",
-    "Функан/ДЗ/ДЗ 4.md",
-    "Функан/ДЗ/ДЗ 2~.md",
-    "Функан/ДЗ/ДЗ 3~.md",
-    "Функан/ДЗ/ДЗ 1.md",
-    "Функан/Практики",
-    "Функан/Лекции",
-    "Функан/ДЗ",
-    "Функан",
-    "Матфизика/Практика/Практика 2. Диффуры в частных производных 2-го порядка с постоянными коэффициентами.md",
-    "Матфизика/Практика/Практика 1. Диффуры в частных производных 1-го порядка.md",
-    "Матфизика/Лекции/Лекция 6. Мат. модель деградации.md",
-    "Матфизика/Лекции/Лекция 5. ММ движения жидкостей и газов.md",
+    "Функан/ДЗ/ДЗ 3.md",
+    "peerdraft_shared/Лекция 4..md",
     "Матфизика/Лекции/Лекция 4. Модели процессов переноса тепла и диффузии.md",
-    "Матфизика/Лекции/Лекция 3. Мат. модель гравитационного и электростатического поля.md",
-    "Матфизика/Лекции/Лекция 2. Мат. модель тела под углом к горизонту.md",
-    "Матфизика/Лекции/Лекция 0. Сущность матмоделирования.md",
-    "Матфизика/Лекции/Лекция 1. Мат. модель распространения вирусов.md",
-    "Матфизика/Практика",
-    "Матфизика/Лекции",
-    "Матфизика/Критерии.md",
-    "Матфизика",
+    "peerdraft_shared/Лекция 3. Разностные схемы для уравнений в частных производных.md",
+    "Матфизика/Практика/Практика 2. Диффуры в частных производных 2-го порядка с постоянными коэффициентами.md",
+    "Функан/ДЗ",
+    "IMAGES/Pasted image 20250305140406.png",
+    "IMAGES/Pasted image 20250305100726.png",
     "КБ",
+    "Дифференциальная геометрия и топология/практика 9.pdf",
+    "Дифференциальная геометрия и топология/практика 5.pdf",
+    "Дифференциальная геометрия и топология/практика 4.pdf",
+    "Дифференциальная геометрия и топология/практика 13.pdf",
+    "Дифференциальная геометрия и топология/практика 11.pdf",
+    "Дифференциальная геометрия и топология/практика 10.pdf",
+    "Дифференциальная геометрия и топология/Практика 6.pdf",
+    "Дифференциальная геометрия и топология/Практика 15.pdf",
+    "Pasted image 20250122001222.png",
+    "Pasted image 20250122000847.png",
     "IMAGES/Скриншот_26.03.24_00.28.39.png",
     "IMAGES/Закат.png",
     "IMAGES/sticker.webp",
     "IMAGES/Untitled.png",
     "IMAGES/Untitled.jpeg",
-    "IMAGES/Untitled 9.png",
-    "IMAGES/Untitled 8.png",
-    "IMAGES/Untitled 7.png",
-    "IMAGES/Untitled 6.png",
-    "IMAGES/Untitled 54.png",
-    "Без названия.canvas"
+    "IMAGES/Untitled 9.png"
   ]
 }
