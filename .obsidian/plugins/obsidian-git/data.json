@@ -28,7 +28,8 @@
   "gitDir": "",
   "showFileMenu": true,
   "authorInHistoryView": "initials",
-  "dateInHistoryView": false,
+  "dateInHistoryView": true,
+  "diffStyle": "split",
   "lineAuthor": {
     "show": false,
     "followMovement": "inactive",
