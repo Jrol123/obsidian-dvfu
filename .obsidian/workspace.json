@@ -155,6 +155,20 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "74b02948b97a2b65",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
           }
         ],
         "currentTab": 4
@@ -181,10 +195,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 445.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "peerdraft:Show my Peerdraft Shares": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
