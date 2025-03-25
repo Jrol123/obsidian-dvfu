@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1536f43f633924b7",
+        "id": "b31e836eacc0f07a",
         "type": "tabs",
         "children": [
           {
-            "id": "0f48bba95de29910",
+            "id": "bbf3f874ac4a8b65",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
+                "file": "Численные методы диффур/Коллок 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore"
+              "icon": "lucide-file",
+              "title": "Коллок 1"
             }
           }
         ]
@@ -169,11 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Численные методы диффур/Коллок 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Коллок 1"
             }
           }
         ]
@@ -193,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f48bba95de29910",
+  "active": "bbf3f874ac4a8b65",
   "lastOpenFiles": [
     "Численные методы диффур/Коллок 1.md",
     "conflict-files-obsidian-git.md",
