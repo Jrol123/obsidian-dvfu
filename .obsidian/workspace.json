@@ -11,14 +11,14 @@
             "id": "0f48bba95de29910",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Численные методы диффур/Коллок 1.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Коллок 1"
+              "icon": "diff",
+              "title": "Diff: .gitignore"
             }
           }
         ]
@@ -169,12 +169,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Численные методы диффур/Коллок 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Коллок 1"
+              "title": "Исходящие ссылки"
             }
           }
         ]
@@ -196,9 +195,9 @@
   },
   "active": "0f48bba95de29910",
   "lastOpenFiles": [
+    "Численные методы диффур/Коллок 1.md",
     "conflict-files-obsidian-git.md",
     "Численные методы диффур/Лекции/Лекция 5.md",
-    "Численные методы диффур/Коллок 1.md",
     "Численные методы диффур/Оглавление.md",
     "Численные методы диффур/Лекции/Лекция 1. Задача Коши для ДУ 1 порядка.md",
     "Вычислительная математика/Коллоки/Коллоквиум 0.md",
