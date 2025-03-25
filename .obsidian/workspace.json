@@ -155,20 +155,6 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "74b02948b97a2b65",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "Все свойства"
-            }
           }
         ],
         "currentTab": 4
@@ -195,11 +181,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "peerdraft:Show my Peerdraft Shares": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -209,8 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bbf3f874ac4a8b65",
+  "active": "afe102c2443f550e",
   "lastOpenFiles": [
+    "Матфизика/Практика/Практика 3. Диффуры в частных производных 2-го порядка с переменными коэффициентами.md",
+    "КБ/Лекция 2. Metasploit.md",
+    "Большие данные/Лаба 2.md",
     "Численные методы диффур/Коллок 1.md",
     "conflict-files-obsidian-git.md",
     "Численные методы диффур/Лекции/Лекция 5.md",
@@ -240,9 +228,6 @@
     "Функан/ДЗ",
     "Функан",
     "Матфизика/Практика/Практика 2. Диффуры в частных производных 2-го порядка с постоянными коэффициентами.md",
-    "Матфизика/Практика/Практика 1. Диффуры в частных производных 1-го порядка.md",
-    "Матфизика/Лекции/Лекция 6. Мат. модель деградации.md",
-    "Матфизика/Лекции/Лекция 5. ММ движения жидкостей и газов.md",
     "Матфизика/Практика",
     "Матфизика/Лекции",
     "Матфизика",
