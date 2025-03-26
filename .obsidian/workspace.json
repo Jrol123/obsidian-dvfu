@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Коллок 1"
             }
+          },
+          {
+            "id": "705266ddbf4dc739",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "КБ/Лекция 2. Metasploit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лекция 2. Metasploit"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,19 +198,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Численные методы диффур/Коллок 1.md",
+                "file": "КБ/Лекция 2. Metasploit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Коллок 1"
+              "title": "Исходящие ссылки из Лекция 2. Metasploit"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 445.5
+    "width": 392.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,7 +224,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f48bba95de29910",
+  "active": "705266ddbf4dc739",
   "lastOpenFiles": [
     "Численные методы диффур/Коллок 1.md",
     "conflict-files-obsidian-git.md",
