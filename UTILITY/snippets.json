@@ -292,13 +292,14 @@
 	{trigger: "(", replacement: "($0)$1", options: "mA"},
 	{trigger: "{", replacement: "{$0}$1", options: "mA"},
 	{trigger: "[", replacement: "[$0]$1", options: "mA"},
-	{trigger: "||", replacement: "||$0||$1", options:"mA"},
-	{trigger: "n", replacement: "||${VISUAL}||", options: "mA"},
+	{trigger: "||", replacement: "\\|$0\\|$1", options:"mA"},
+	{trigger: "n", replacement: "\\|${VISUAL}\\|", options: "mA"},
 	{trigger: "|", replacement: "|${VISUAL}|", options: "mA"},
 	{trigger: "lr(", replacement: "\\left( $0 \\right) $1", options: "mA"},
 	{trigger: "lr{", replacement: "\\left\\{ $0 \\right\\} $1", options: "mA"},
 	{trigger: "lr[", replacement: "\\left[ $0 \\right] $1", options: "mA"},
 	{trigger: "lr|", replacement: "\\left| $0 \\right| $1", options: "mA"},
+	{trigger: "lrn", replacement: "\\left\\| $0 \\right\\| $1", options: "mA"},
 	{trigger: "lra", replacement: "\\left< $0 \\right> $1", options: "mA"},
 	
 	
