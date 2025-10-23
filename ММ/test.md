@@ -1,2 +1,2 @@
 $P\left( t \right) = P_{0}\cdot e^{rt}$
-$rt = \dfrac{P\left( t \right)}{}$
+$rt = \ln \left(\dfrac{P\left( t \right)}{P_{0}}\right)$
